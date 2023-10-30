@@ -1,0 +1,17 @@
+#div1, #div2, #div3 , #div3, #div4, #div5, #di6 {
+  float: left;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid white;
+}
+h2{
+   font: Times, Times New Roman, serif;
+   color:whitesmoke
+}
+html{
+    background-color:black;
+color: aliceblue;
+flex-direction: column;
+}
